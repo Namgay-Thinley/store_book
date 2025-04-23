@@ -8,6 +8,7 @@
     text-align: center;
 }
 
+
 /* Form Styling */
 .signup-form {
     background: #f4f4f4;
@@ -20,6 +21,7 @@
     gap: 10px;
 }
 
+
 /* Input Fields */
 .signup-form input {
     padding: 10px;
@@ -30,9 +32,11 @@
     transition: border 0.3s ease;
 }
 
+
 .signup-form input:focus {
     border-color: #f4a261;
 }
+
 
 /* Signup Button */
 .signup-form button {
@@ -46,6 +50,10 @@
     transition: background 0.3s ease;
 }
 
+
 .signup-form button:hover {
     background: #e76f51;
 }
+
+
+

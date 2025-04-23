@@ -6,6 +6,7 @@ body, h1, p, ul {
     font-family: Arial, sans-serif;
 }
 
+
 /* Navbar Styling */
 .navbar {
     display: flex;
@@ -16,6 +17,7 @@ body, h1, p, ul {
     color: white;
 }
 
+
 .navbar .logo a {
     text-decoration: none;
     color: white;
@@ -23,14 +25,17 @@ body, h1, p, ul {
     font-weight: bold;
 }
 
+
 .nav-links {
     list-style: none;
     display: flex;
 }
 
+
 .nav-links li {
     margin: 0 15px;
 }
+
 
 .nav-links a {
     text-decoration: none;
@@ -39,9 +44,11 @@ body, h1, p, ul {
     transition: color 0.3s ease;
 }
 
+
 .nav-links a:hover {
     color: #f4a261;
 }
+
 
 /* Footer Styling */
 .footer {

@@ -8,6 +8,7 @@
     text-align: center;
 }
 
+
 /* Form Styling */
 .login-form {
     background: #f4f4f4;
@@ -20,6 +21,7 @@
     gap: 10px;
 }
 
+
 /* Input Fields */
 .login-form input {
     padding: 10px;
@@ -30,9 +32,11 @@
     transition: border 0.3s ease;
 }
 
+
 .login-form input:focus {
     border-color: #f4a261;
 }
+
 
 /* Login Button */
 .login-form button {
@@ -45,6 +49,7 @@
     cursor: pointer;
     transition: background 0.3s ease;
 }
+
 
 .login-form button:hover {
     background: #e76f51;
